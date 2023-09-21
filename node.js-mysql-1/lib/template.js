@@ -8,7 +8,8 @@ module.exports = {
       <meta charset="utf-8">
     </head>
     <body>
-      <h1><a href="/">WEB</a></h1>
+      <h1><a href="/">What doesn't kill you make you stronger!</a></h1>
+      <h1><a href="/">Discipline equals freedom.</a></h1>
       ${list}
       ${control}
       ${body}
